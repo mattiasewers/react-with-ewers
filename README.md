@@ -1,4 +1,5 @@
 # react-with-ewers
 
-'''bash
-  npm start
+```bash
+npm start
+```

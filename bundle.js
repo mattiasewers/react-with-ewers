@@ -127,6 +127,11 @@
 	  }, {
 	    key: 'render',
 	    value: function render() {
+	      var styles = {
+	        text: {
+	          color: 'white'
+	        }
+	      };
 	      return _react2.default.createElement(
 	        'div',
 	        null,
@@ -146,7 +151,7 @@
 	            { key: i },
 	            _react2.default.createElement(
 	              'li',
-	              { key: i },
+	              { style: styles.text, key: i },
 	              todo.text
 	            ),
 	            _react2.default.createElement(
