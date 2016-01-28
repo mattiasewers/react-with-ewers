@@ -1,4 +1,4 @@
-# react-with-ewers
+# React 101 med Mattias
 
 ## Usage
 
